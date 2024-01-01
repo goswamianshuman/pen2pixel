@@ -34,7 +34,7 @@
 		</div>
 
 		<div>
-			<a href="/">
+			<a href="https://github.com/goswamianshuman/pen2pixel" target="_blank">
 				<Github class="h-5 w-5" />
 			</a>
 		</div>
